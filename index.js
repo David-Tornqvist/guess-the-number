@@ -1,1 +1,2 @@
-// Read instructions. And remove this line.
+const userInput = document.getElementById("user-input"); 
+const message = document.getElementById("message");
